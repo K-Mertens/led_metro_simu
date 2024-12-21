@@ -1,0 +1,428 @@
+{
+    "max_coordinates":{
+        "Xcoord": 175,
+        "Ycoord": 105
+    },
+
+    "line1":[10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+
+    "line2":[44, 45, 10, 9, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 44],
+
+    "line5":[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+
+    "line6":[37, 38, 39, 40, 41, 42, 43, 44, 45, 10, 9, 46, 47, 48, 49, 50, 51, 52, 53, 17, 54, 55, 56, 57, 58, 44],
+
+    "stations": [{
+        "id": "0",
+        "name": "Erasme - Erasmus",
+        "Xcoord": 0,
+        "Ycoord": 105,
+        "lines": [5]
+    },
+    {
+        "id": "1",
+        "name": "Eddy Merckx",
+        "Xcoord": 8,
+        "Ycoord": 105,
+        "lines": [5]
+    },
+    {
+        "id": "2",
+        "name": "CERIA - COOVI",
+        "Xcoord": 16,
+        "Ycoord": 105,
+        "lines": [5]
+    },
+    {
+        "id": "3",
+        "name": "La Roue - Het Rad",
+        "Xcoord": 24,
+        "Ycoord": 105,
+        "lines": [5]
+    },
+    {
+        "id": "4",
+        "name": "Bizet",
+        "Xcoord": 32,
+        "Ycoord": 98.5,
+        "lines": [5]
+    },
+    {
+        "id": "5",
+        "name": "Veeweyde - Veeweide",
+        "Xcoord": 32,
+        "Ycoord": 91,
+        "lines": [5]
+    },
+    {
+        "id": "6",
+        "name": "Saint-Guidon - Sint-Guido",
+        "Xcoord": 32,
+        "Ycoord": 83.5,
+        "lines": [5]
+    },
+    {
+        "id": "7",
+        "name": "Aumale",
+        "Xcoord": 32,
+        "Ycoord": 76.5,
+        "lines": [5]
+    },
+    {
+        "id": "8",
+        "name": "Jacques Brel",
+        "Xcoord": 32,
+        "Ycoord": 69,
+        "lines": [5]
+    },
+    {
+        "id": "9",
+        "name": "Gare de l'Ouest - Weststation",
+        "Xcoord": 32,
+        "Ycoord": 60.5,
+        "lines": [1, 2, 5, 6]
+    },
+    {
+        "id": "10",
+        "name": "Beekkant",
+        "Xcoord": 32,
+        "Ycoord": 52,
+        "lines": [1, 2, 5, 6]
+    },
+    {
+        "id": "11",
+        "name": "Etangs Noirs - Zwarte Vijvers",
+        "Xcoord": 38.5,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "12",
+        "name": "Comte de Flandre - Graaf van Vlaanderen",
+        "Xcoord": 46.5,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "13",
+        "name": "Sainte-Catherine - Sint-Katelijne",
+        "Xcoord": 54.5,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "14",
+        "name": "De Brouckère",
+        "Xcoord": 62.5,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "15",
+        "name": "Gare Centrale - Centraal Station",
+        "Xcoord": 70.5,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "16",
+        "name": "Parc - Park",
+        "Xcoord": 78,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "17",
+        "name": "Arts-Loi - Kunst-Wet",
+        "Xcoord": 86,
+        "Ycoord": 45.5,
+        "lines": [1, 2, 5, 6]
+    },
+    {
+        "id": "18",
+        "name": "Maelbeek - Maalbeek",
+        "Xcoord": 94,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "19",
+        "name": "Schuman",
+        "Xcoord": 102,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "20",
+        "name": "Merode",
+        "Xcoord": 110,
+        "Ycoord": 45.5,
+        "lines": [1, 5]
+    },
+    {
+        "id": "21",
+        "name": "Thieffry",
+        "Xcoord": 118,
+        "Ycoord": 49,
+        "lines": [5]
+    },
+    {
+        "id": "22",
+        "name": "Pétillon",
+        "Xcoord": 123,
+        "Ycoord": 56,
+        "lines": [5]
+    },
+    {
+        "id": "23",
+        "name": "Hankar",
+        "Xcoord": 129,
+        "Ycoord": 64.5,
+        "lines": [5]
+    },
+    {
+        "id": "24",
+        "name": "Delta",
+        "Xcoord": 135,
+        "Ycoord": 71.5,
+        "lines": [5]
+    },
+    {
+        "id": "25",
+        "name": "Beaulieu",
+        "Xcoord": 147,
+        "Ycoord": 74.5,
+        "lines": [5]
+    },
+    {
+        "id": "26",
+        "name": "Demey",
+        "Xcoord": 162,
+        "Ycoord": 74.5,
+        "lines": [5]
+    },
+    {
+        "id": "27",
+        "name": "Herrmann-Debroux",
+        "Xcoord": 175,
+        "Ycoord": 74.5,
+        "lines": [5]
+    },
+    {
+        "id": "28",
+        "name": "Montgomery",
+        "Xcoord": 117,
+        "Ycoord": 41,
+        "lines": [1]
+    },
+    {
+        "id": "29",
+        "name": "Joséphine-Charlotte",
+        "Xcoord": 122,
+        "Ycoord": 36,
+        "lines": [1]
+    },
+    {
+        "id": "30",
+        "name": "Gribaumont",
+        "Xcoord": 127,
+        "Ycoord": 31,
+        "lines": [1]
+    },
+    {
+        "id": "31",
+        "name": "Tomberg",
+        "Xcoord": 132,
+        "Ycoord": 26,
+        "lines": [1]
+    },
+    {
+        "id": "32",
+        "name": "Roodebeek",
+        "Xcoord": 142,
+        "Ycoord": 24,
+        "lines": [1]
+    },
+    {
+        "id": "33",
+        "name": "Vandervelde",
+        "Xcoord": 150.5,
+        "Ycoord": 24,
+        "lines": [1]
+    },
+    {
+        "id": "34",
+        "name": "Alma",
+        "Xcoord": 160,
+        "Ycoord": 24,
+        "lines": [1]
+    },
+    {
+        "id": "35",
+        "name": "Crainhem - Kraainem",
+        "Xcoord": 168,
+        "Ycoord": 24,
+        "lines": [1]
+    },
+    {
+        "id": "36",
+        "name": "Stockel - Stokkel",
+        "Xcoord": 175,
+        "Ycoord": 24,
+        "lines": [1]
+    },
+    {
+        "id": "37",
+        "name": "Roi Baudouin - Koning Boudewijn",
+        "Xcoord": 0,
+        "Ycoord": 0,
+        "lines": [6]
+    },
+    {
+        "id": "38",
+        "name": "Heysel - Heizel",
+        "Xcoord": 8,
+        "Ycoord": 0,
+        "lines": [6]
+    },
+    {
+        "id": "39",
+        "name": "Houba-Brugmann",
+        "Xcoord": 16,
+        "Ycoord": 0,
+        "lines": [6]
+    },
+    {
+        "id": "40",
+        "name": "Stuyvenberg",
+        "Xcoord": 24,
+        "Ycoord": 0,
+        "lines": [6]
+    },
+    {
+        "id": "41",
+        "name": "Bockstael",
+        "Xcoord": 32,
+        "Ycoord": 6,
+        "lines": [6]
+    },
+    {
+        "id": "42",
+        "name": "Pannenhuis",
+        "Xcoord": 32,
+        "Ycoord": 13.5,
+        "lines": [6]
+    },
+    {
+        "id": "43",
+        "name": "Belgica",
+        "Xcoord": 32,
+        "Ycoord": 21,
+        "lines": [6]
+    },
+    {
+        "id": "44",
+        "name": "Simonis",
+        "Xcoord": 32,
+        "Ycoord": 28.5,
+        "lines": [2, 6]
+    },
+    {
+        "id": "45",
+        "name": "Osseghem - Ossegem",
+        "Xcoord": 32,
+        "Ycoord": 38,
+        "lines": [2, 6]
+    },
+    {
+        "id": "46",
+        "name": "Delacroix",
+        "Xcoord": 42,
+        "Ycoord": 70,
+        "lines": [2, 6]
+    },
+    {
+        "id": "47",
+        "name": "Clemenceau",
+        "Xcoord": 48,
+        "Ycoord": 77,
+        "lines": [2, 6]
+    },
+    {
+        "id": "48",
+        "name": "Gare du Midi - Zuidstation",
+        "Xcoord": 57,
+        "Ycoord": 77,
+        "lines": [2, 6]
+    },
+    {
+        "id": "49",
+        "name": "Porte de Hal - Hallepoort",
+        "Xcoord": 67,
+        "Ycoord": 77,
+        "lines": [2, 6]
+    },
+    {
+        "id": "50",
+        "name": "Hôtel des Monnaies - Munthof",
+        "Xcoord": 79,
+        "Ycoord": 77,
+        "lines": [2, 6]
+    },
+    {
+        "id": "51",
+        "name": "Louise - Louiza",
+        "Xcoord": 86,
+        "Ycoord": 69.5,
+        "lines": [2, 6]
+    },
+    {
+        "id": "52",
+        "name": "Porte de Namur - Naamsepoort",
+        "Xcoord": 86,
+        "Ycoord": 61,
+        "lines": [2, 6]
+    },
+    {
+        "id": "53",
+        "name": "Trône - Troon",
+        "Xcoord": 86,
+        "Ycoord": 53.5,
+        "lines": [2, 6]
+    },
+    {
+        "id": "54",
+        "name": "Madou",
+        "Xcoord": 86,
+        "Ycoord": 35,
+        "lines": [2, 6]
+    },
+    {
+        "id": "55",
+        "name": "Botanique - Kruidtuin",
+        "Xcoord": 75.5,
+        "Ycoord": 28.5,
+        "lines": [2, 6]
+    },
+    {
+        "id": "56",
+        "name": "Rogier",
+        "Xcoord": 65,
+        "Ycoord": 28.5,
+        "lines": [2, 6]
+    },
+    {
+        "id": "57",
+        "name": "Yser - IJzer",
+        "Xcoord": 55.5,
+        "Ycoord": 28.5,
+        "lines": [2, 6]
+    },
+    {
+        "id": "58",
+        "name": "Ribaucourt",
+        "Xcoord": 45,
+        "Ycoord": 28.5,
+        "lines": [2, 6]
+    }]
+}
