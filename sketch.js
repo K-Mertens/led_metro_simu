@@ -106,7 +106,7 @@ function draw() {
 		}
 
 		stroke(0);
-		circle(element.Xcoord*(CANVAS_WIDTH)/test.max_coordinates.Xcoord, element.Ycoord*(CANVAS_HEIGHT - 60)/test.max_coordinates.Ycoord, 20);
+		circle(element.Xcoord*(CANVAS_WIDTH)/test.max_coordinates.Xcoord, element.Ycoord*(CANVAS_HEIGHT - 60)/test.max_coordinates.Ycoord, CANVAS_HEIGHT/30);
 		pop();
 
 /* 		if (element.id == test.line1[mainCounter]) {
